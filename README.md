@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dalton Burkhart</h1>
-<h3 align="center">I am a second-year at Northeastern University studying computer science and minoring in mathematics.</h3>
+<h3 align="center">I am a second-year at Northeastern University studying computer science and minoring in mathematics</h3>
 <h3 align="center">I have a passion for learning new skills, and tackling new challenges, speciically in AI and machine learning. I enjoy building software that integrates these tools in order to help further educate others on the future of the field, as well as bring social benefit to those who use them</h3>
 
 - 🌱 I’m currently learning **back-end development (Springboot), Database management, Cloud computing (AWS), and more machine learning (NLP)** so that I may be better at software design.
