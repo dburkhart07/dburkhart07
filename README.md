@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dalton Burkhart</h1>
 <h3 align="center">Second-year computer science student at Northeastern University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dburkhart07" alt="dburkhart07" /></a> </p>
-
 - 🌱 I’m currently learning **Back-end development (Springboot), Database management, Cloud computing (AWS), and more machine learning (NLP)**
 
 - 👯 I’m looking to collaborate on **Machine learning projects in the field of healthcare**
