@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dalton Burkhart</h1>
-<h3 align="center">Second-year computer science student at Northeastern University</h3>
+<h3 align="center">I am a second-year at Northeastern University studying computer science and minoring in mathematics.</h3>
+<h3 align="center">I have a passion for learning new skills, and tackling new challenges, speciically in AI and machine learning. I enjoy building software that integrates these tools in order to help further educate others on the future of the field, as well as bring social benefit to those who use them</h3>
 
-- 🌱 I’m currently learning **Back-end development (Springboot), Database management, Cloud computing (AWS), and more machine learning (NLP)**
+- 🌱 I’m currently learning **back-end development (Springboot), Database management, Cloud computing (AWS), and more machine learning (NLP)** so that I may be better at software design.
 
-- 👯 I’m looking to collaborate on **Machine learning projects in the field of healthcare**
+- 👯 I love learning and collaborating wth others on technical challenges to build various softwares. Currently, I am working on building machine learning projects in the field of healthcare
 
-- 🤝 I’m looking for help with **I am actively looking for a software engineering/data science internship for this upcoming summer, as well as co-op positions for the following fall season**
+- 🤝 **I am actively looking for a software engineering/data science internship for this upcoming summer, as well as co-op positions for the following fall season**
 
-- 💬 Ask me about **Front-end development (anything), basic software design, and machine learning models**
+- 📫 I love talking with others about their experiences in various technical fields. **Feel free contact me at daltonburkhart.75@gmail.com or reach out via LinkedIn**
 
-- 📫 How to reach me **Contact me at daltonburkhart.75@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/dalton-burkhart/](https://www.linkedin.com/in/dalton-burkhart/)
-
-- ⚡ Fun fact **Outside of coding, I love playing music. I primarily play the saxophone, piano, and guitar**
+- ⚡ **Outside of coding, I love playing music. I primarily play the saxophone, piano, and guitar. I also love baking, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
