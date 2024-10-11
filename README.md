@@ -10,7 +10,7 @@
 
 - 📫 I love talking with others about their experiences in various technical fields. **Feel free contact me at daltonburkhart.75@gmail.com or reach out via LinkedIn**
 
-- ⚡ **Outside of coding, I love playing music. I primarily play the saxophone, piano, and guitar. I also love baking, **
+- ⚡ **Outside of coding, I love playing music (I primarily play the saxophone and piano), and watching educational content (primarily related to psychology and business)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
