@@ -7,7 +7,7 @@
 I am a second-year student at Northeastern University, majoring in Computer Science and minoring in Mathematics. My passion lies in exploring new skills and tackling challenges in Artificial Intelligence and Machine Learning. I enjoy building software that integrates these technologies to educate others on the future of these fields and to bring social benefits to those who use them.
 
 ### Outside of coding:
-- 🎷 I play the saxophone and piano.
+- 🎵 I sing, as well as play the saxophone and am currently relearning piano and guitar
 - 🎥 I love watching educational content related to psychology, economics, and business.
 
 ---
