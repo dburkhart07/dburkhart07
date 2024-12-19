@@ -8,7 +8,7 @@ I am a second-year student at Northeastern University, majoring in Computer Scie
 
 ### Outside of coding:
 - 🎵 I sing, as well as play the saxophone and am currently relearning piano and guitar
-- 🎥 I love watching educational content related to psychology, economics, and business.
+- 🎥 I love watching movies, as well as educational content related to psychology, economics, and business.
 
 ---
 
