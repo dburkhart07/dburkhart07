@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dalton Burkhart</h1>
-<h3 align="center">Second-year Computer Science Student at Northeastern University</h3>
+<h3 align="center">Second-year Computer Science and Math Student at Northeastern University</h3>
 
 ---
 
@@ -8,24 +8,24 @@ I am a second-year student at Northeastern University, majoring in Computer Scie
 
 ### Outside of coding:
 - 🎵 I sing, as well as play the saxophone and am currently relearning piano and guitar
-- 🎥 I love watching movies, as well as educational content related to psychology, economics, and business.
+- 🎥 I love watching movies, as well as academic content relating to psychology.
+- 📖 I also enjoy reading. Some of my favorite genres are fantasy, thriller, and science fiction
 
 ---
 
 ## 🚀 What I am up to
 - 🌱 **Currently learning:** 
   - Back-end development with Spring Boot
-  - Database management
-  - Cloud computing with AWS
-  - Machine learning (NLP)
+  - Natural Language Processing and Generative AI
+  - AWS
+  - Mathetics behind ML models
   
 - 👯 **Collaboration:** 
   - I enjoy learning and collaborating with others on technical challenges to build various software solutions.
   - Currently working on machine learning projects in the healthcare field.
   
 - 🤝 **Looking for opportunities:** 
-  - Actively seeking software engineering/data science internships for the upcoming summer.
-  - Looking for co-op positions for the fall season.
+  - Actively seeking software engineering/data science internships for the upcoming summer and/or.
 
 ---
 
