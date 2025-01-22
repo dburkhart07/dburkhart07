@@ -15,10 +15,9 @@ I am a second-year student at Northeastern University, majoring in Computer Scie
 
 ## 🚀 What I am up to
 - 🌱 **Currently learning:** 
-  - Back-end development with Spring Boot
-  - Natural Language Processing and Generative AI
+  - Backend development with Springboot
+  - Natural Language Processing and Computer Vision
   - AWS
-  - Mathetics behind ML models
   
 - 👯 **Collaboration:** 
   - I enjoy learning and collaborating with others on technical challenges to build various software solutions.
