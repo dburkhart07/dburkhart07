@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am a second-year student at Northeastern University, majoring in Computer Science and minoring in Mathematics. My passion lies in exploring new skills and tackling challenges in Artificial Intelligence and Machine Learning (with particular applications to healthare, economics, and games). I enjoy building software that integrates these technologies to educate others on the future of these fields and to bring social benefits to those who use them.
+I am a second-year student at Northeastern University, majoring in Computer Science and minoring in Mathematics. My passion lies in exploring new skills and tackling challenges in Artificial Intelligence and Machine Learning (with particular applications to healthcare, economics, and games). I enjoy building software that integrates these technologies to educate others on the future of these fields and to bring social benefits to those who use them.
 
 ### Outside of coding:
 - 🎵 I sing, as well as play the saxophone and am currently relearning piano and guitar
@@ -15,8 +15,8 @@ I am a second-year student at Northeastern University, majoring in Computer Scie
 
 ## 🚀 What I am up to
 - 🌱 **Currently learning:** 
-  - Backend development with Springboot
-  - Natural Language Processing and Computer Vision
+  - Natural Language Processing
+  - Computer Vision
   - AWS
   
 - 👯 **Collaboration:** 
@@ -24,7 +24,7 @@ I am a second-year student at Northeastern University, majoring in Computer Scie
   - Currently working on machine learning projects in the healthcare field.
   
 - 🤝 **Looking for opportunities:** 
-  - Actively seeking software engineering/data science internships for the upcoming summer and/or.
+  - Actively seeking software engineering/data science internships/co-op opporunities for the upcoming fall semester
 
 ---
 
